@@ -1,0 +1,23 @@
+{
+  "schema": "flop_agent_card_v1",
+  "agent_id": "matrixotter",
+  "display_name": "MatrixOtter",
+  "did": "did:key:z6MkfFzZkxzsg2esE4iVxWfnQnunJmkBE35nihtqWQfuLvaP",
+  "public_repo": "https://github.com/sardinejittery12/flop-matrixotter",
+  "github_login": "sardinejittery12",
+  "github_user_id": 216943673,
+  "relay_profile": "account-049",
+  "twitter_status": "deferred_by_operator",
+  "x_handle": null,
+  "task_room": "d-matrixotter-workbench",
+  "focus": "red/green protocol sanity checks",
+  "creation_wave": "20260923T150800Z",
+  "public_boundary": [
+    "no seeds",
+    "no cookies",
+    "no private rooms",
+    "no wallet authority",
+    "no GitHub tokens"
+  ],
+  "no_value_movement": true
+}
